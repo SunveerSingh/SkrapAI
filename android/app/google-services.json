@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "182767256372",
+    "firebase_url": "https://mrrecyclotrashwoski.firebaseio.com",
+    "project_id": "mrrecyclotrashwoski",
+    "storage_bucket": "mrrecyclotrashwoski.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182767256372:android:db68c40cffb137bfe79b61",
+        "android_client_info": {
+          "package_name": "com.skrapai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182767256372-69ntqtsj6e4pmeo1blmul0g9k4fa7bro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW3_F5WMjo-LFxdTKU3tYZKYVbatsC2-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182767256372-69ntqtsj6e4pmeo1blmul0g9k4fa7bro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
